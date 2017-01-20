@@ -1,0 +1,4 @@
+|m|@%(decorator)s
+def %(name)s(self, %(arguments)s):
+        ''' '''
+        |!|

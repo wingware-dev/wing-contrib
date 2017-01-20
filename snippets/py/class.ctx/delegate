@@ -1,0 +1,5 @@
+|m|def %(method)s(self, %(arguments)s):
+        ''' '''
+    return self.%(implementor)s.%(method)s(%(arguments)s)
+
+|!|
