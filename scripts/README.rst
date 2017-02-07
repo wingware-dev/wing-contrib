@@ -6,11 +6,11 @@ See the documentation within each script for details.
 
 The following additional extensions are hosted in other repositories:
 
-https://github.com/grahamu/flake8panel -- Flakes8 tool for Wing 6
-https://bitbucket.org/stj/pep8panel/wiki/Home -- PEP8 tool for Wing 5
-https://bitbucket.org/stj/pyflakespanel/wiki/Home -- PyFlakes tool for Wing 5
-https://github.com/luc-j-bourhis/WingIDE-setuptools -- Setuptools and distutils panel
-https://github.com/cool-RR/cute-wing-stuff -- A collection of many useful scripts
+* https://github.com/grahamu/flake8panel -- Flakes8 tool for Wing 6
+* https://bitbucket.org/stj/pep8panel/wiki/Home -- PEP8 tool for Wing 5
+* https://bitbucket.org/stj/pyflakespanel/wiki/Home -- PyFlakes tool for Wing 5
+* https://github.com/luc-j-bourhis/WingIDE-setuptools -- Setuptools and distutils panel
+* https://github.com/cool-RR/cute-wing-stuff -- A collection of many useful scripts
 
 Installing Extension Scripts
 ............................
