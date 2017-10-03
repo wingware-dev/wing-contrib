@@ -1,4 +1,4 @@
-Wing IDE Extension Scripts
+Wing Pro Extension Scripts
 --------------------------
 
 These are extension scripts that can be used with Wing Pro and Wing Personal.

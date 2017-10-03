@@ -1,4 +1,4 @@
-Color Palettes for Wing IDE
+Color Palettes for Wing Pro
 ---------------------------
 
 Contributed color palettes and syntax color schemes for Wing Pro include the following:
