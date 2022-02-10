@@ -1,7 +1,8 @@
-# Simple script that installs a handler to place a copy of any saved
-# file into a *.bak before overwriting it with the content
+# Simple script that make a copy of any saved file to a *.bak before overwriting 
+# it with newly saved content
 
 import wingapi
+
 def _connect_to_presave(doc):
   def _on_presave(filename, encoding):
     # Avoid operation when saving a copy to another location
@@ -15,7 +16,7 @@ def _connect_to_presave(doc):
     f = open(bak_filename, 'w')
     f.write(txt)
     f.close()
-  connect_id = doc.Connect('presave', _on_presave)
+  doc.Connect('presave', _on_presave)
   
 def _init_bak():
   wingapi.gApplication.Connect('document-open', _connect_to_presave)
